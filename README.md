@@ -3,7 +3,7 @@
 
 
 
-![Texto alternativo](Imagen\main.png)
+![Texto alternativo](.\Imagen\main.png)
 *Un análisis para predecir las estrellas del mañana*
 <br/><br/>
 
@@ -21,7 +21,7 @@ Considero que es una herramienta significativa a la hora de evaluar de forma glo
 
 # Metodología y datos utilizados
 
-![Texto alternativo](Imagen\method.png)
+![Texto alternativo](.\Imagen\method.png)
 
 ## **Datos Utilizados**
 <p align="justify">
@@ -102,7 +102,7 @@ Es imprencindible comprender la relación entre las caracteristicas del jugador.
 
 Estas nos permite comprender cómo se relacionan y se influyen mutuamente. Cuando hablamos de correlación, nos referimos a la medida en que dos variables se mueven juntas en la misma dirección (correlación positiva) o en direcciones opuestas (correlación negativa).
 <br/><br/>
-![Texto alternativo](Imagen\correlacion.png)
+![Texto alternativo](.\Imagen\correlacion.png)
 
 Como podemos ver exisite una correlacion positiva entre el OVA y el Value, el Wage que percibe y su Release Clause. Esto es lógico ya que el valor monetario que tiene el jugador esta relacionado con su valoración general.
 
@@ -144,7 +144,7 @@ Resultados del segundo modelo.
 
 # Conclusiones
 
-![Texto alternativo](Imagen\554f5dc94d356.gif
+![Texto alternativo](.\Imagen\554f5dc94d356.gif
 )
 
 <br/><br/>
